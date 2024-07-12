@@ -2,18 +2,23 @@
  
 ## Bio 😄 
 
-My name is Grace! I am a Graphic Information Technology Major from ASU. My career goals are to work in animation and game design 
+### Name/Pronouns ⚡
+My name is Grace!
+She/Her 
+
+### Education 🌱
+I am a Graphic Information Technology Major from ASU. 
+
+### Career 🔭
+My career goals are to work in animation and game design. 
+
+### Contact
+[LinkedIn](https://linkedin.com/in/grace-graham-685465181/)
 
 
 
-<p float="left">
-    <img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" />
-    <img src="https://myreadme.vercel.app/api/embed/gtgraha1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtgraha1&theme=tokyonight" alt="mystreak"/> 
-</p>
-
-
-
+<img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" />
+    
 <img src="https://myreadme.vercel.app/api/embed/gtgraha1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=gtgraha1&theme=juicyfresh&no-bg=true" />
