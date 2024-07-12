@@ -16,11 +16,13 @@
 
 <p float="left">  
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtgraha1&theme=tokyonight" alt="mystreak"/>
+
+<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </p>
 
-<p float="right">  
+
     <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</p>
+
 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
