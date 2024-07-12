@@ -18,9 +18,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtgraha1&theme=tokyonight" alt="mystreak"/>
 </p>
 
-    
-<p float="left">  
-    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<p float="right">  
+    <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </p>
 
 
