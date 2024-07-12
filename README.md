@@ -2,9 +2,9 @@
  
 ## Bio 😄 
 
-### Name/Pronouns ⚡  |   ### Education 🌱
+### Name/Pronouns ⚡  |   ### Education 🌱 |   ### Career 🔭 | ### Contact
 
-My name is Grace! she/Her | I am a Graphic Information Technology Major from ASU. 
+My name is Grace! she/Her | I am a Graphic Information Technology Major from ASU. | My career goals are to work in animation and game design. | [LinkedIn](https://linkedin.com/in/grace-graham-685465181/)
 
 
 
