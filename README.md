@@ -1,8 +1,8 @@
 # Hi there, I'm Grace! 👋
 
 | :---        |    :----:   |
-| Header      |  <img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" />      | 
-| Paragraph   | Text        | 
+| ##Bio 😄  |  <img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" />      | 
+| My name is Grace! I am a Graphic Information Technology Major from ASU. My career goals are to work in animation and game design   |Text        | 
 
 <p align="right">
 <img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" />
