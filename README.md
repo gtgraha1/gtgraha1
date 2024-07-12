@@ -3,6 +3,7 @@
 ## Bio 😄 
 
 ### Name/Pronouns ⚡| ### Education 🌱
+-------------------- | --------------------
 My name is Grace! she/Her | I am a Graphic Information Technology Major from ASU. 
 
 
