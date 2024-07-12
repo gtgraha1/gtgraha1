@@ -17,25 +17,5 @@
 
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtgraha1&theme=tokyonight" alt="mystreak"/> | <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> |
 | :---   |   ---: |
-
-
-
-
-
-<p float="left">  
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtgraha1&theme=tokyonight" alt="mystreak"/>
-
-<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</p>
-
-
-    <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
-
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gtgraha1.gtgraha1)
-
-
+| [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)  |  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gtgraha1.gtgraha1) |
 
