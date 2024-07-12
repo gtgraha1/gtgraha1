@@ -3,6 +3,17 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=gtgraha1&theme=juicyfresh&no-bg=true" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gtgraha1&theme=tokyonight" alt="mystreak"/>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+![Snake animation](https://github.com/gtgraha1/github-readme/blob/output/github-contribution-snake.svg)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gtgraha1.gtgraha1)
+
+
 <!--
 **gtgraha1/gtgraha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
