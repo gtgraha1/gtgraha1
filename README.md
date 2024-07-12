@@ -1,5 +1,6 @@
 # Hi there I'm Grace! 👋
 <img src="https://myreadme.vercel.app/api/embed/gtgraha1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 <!--
 **gtgraha1/gtgraha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
