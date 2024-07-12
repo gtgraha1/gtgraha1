@@ -1,4 +1,4 @@
-<img src="C:\Users\grace\OneDrive\git215\m2\extra-credit\gtgraha1\profpic1opt.jpg" alt="profilepic" /> 
+<img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" /> 
 
 # Hi there, I'm Grace! 👋
 
