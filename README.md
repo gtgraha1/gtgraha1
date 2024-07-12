@@ -1,6 +1,8 @@
 <img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" /> 
 
-# Hi there, I'm Grace! 👋
+<p align="right">
+    # Hi there, I'm Grace! 👋
+</p>
 
 <img src="https://myreadme.vercel.app/api/embed/gtgraha1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
