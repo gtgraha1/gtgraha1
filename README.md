@@ -9,9 +9,9 @@
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-![Snake animation](https://github.com/gtgraha1/github-readme/blob/output/github-contribution-snake.svg)
+[![Snake animation](https://github.com/gtgraha1/github-readme/blob/output/github-contribution-snake.svg)]
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gtgraha1.gtgraha1)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=gtgraha1.gtgraha1)]
 
 
 <!--
