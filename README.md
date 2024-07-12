@@ -2,11 +2,11 @@
  
 ## Bio 😄 
 
-### Name/Pronouns ⚡
-My name is Grace!
-She/Her 
+| ### Name/Pronouns ⚡| ### Education 🌱|
+|My name is Grace! she/Her | I am a Graphic Information Technology Major from ASU. |
 
-### Education 🌱
+
+
 I am a Graphic Information Technology Major from ASU. 
 
 ### Career 🔭
