@@ -1,5 +1,9 @@
 # Hi there, I'm Grace! 👋
 
+| :---        |    :----:   |
+| Header      |  <img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" />      | 
+| Paragraph   | Text        | 
+
 <p align="right">
 <img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" />
 </p>
