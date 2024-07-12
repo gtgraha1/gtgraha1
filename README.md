@@ -1,4 +1,4 @@
-# Hi there I'm Grace! 👋
+# Hi there, I'm Grace! 👋
 <img src="https://myreadme.vercel.app/api/embed/gtgraha1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=gtgraha1&theme=juicyfresh&no-bg=true" />
