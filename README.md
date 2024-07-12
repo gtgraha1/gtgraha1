@@ -2,9 +2,9 @@
  
 ## Bio 😄 
 
-### Name/Pronouns ⚡  |   Education 🌱 |   Career 🔭 |  Contact ✉️
-
-My name is Grace! she/Her | I am a Graphic Information Technology Major from ASU. | My career goals are to work in animation and game design. | [LinkedIn](https://linkedin.com/in/grace-graham-685465181/)
+|Name/Pronouns ⚡         |   Education 🌱                                        |   Career 🔭                                               |  Contact ✉️   |
+| :---                     |    :----:                                             |    :----:                                                 |          ---: |
+|My name is Grace! she/Her | I am a Graphic Information Technology Major from ASU. | My career goals are to work in animation and game design. | [LinkedIn](https://linkedin.com/in/grace-graham-685465181/) |
 
 <p float="left">      
     <img src="https://myreadme.vercel.app/api/embed/gtgraha1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
