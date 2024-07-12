@@ -16,8 +16,6 @@ My career goals are to work in animation and game design.
 [LinkedIn](https://linkedin.com/in/grace-graham-685465181/)
 
 
-
-<img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" />
     
 <img src="https://myreadme.vercel.app/api/embed/gtgraha1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
