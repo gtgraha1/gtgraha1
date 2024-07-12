@@ -23,7 +23,10 @@ My name is Grace! she/Her | I am a Graphic Information Technology Major from ASU
     <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gtgraha1.gtgraha1)
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gtgraha1.gtgraha1)
+
+
 
