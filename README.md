@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi there 👋
+<img src="https://myreadme.vercel.app/api/embed/gtgraha1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <!--
 **gtgraha1/gtgraha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
