@@ -1,13 +1,15 @@
 # Hi there, I'm Grace! 👋
  
 ## Bio 😄 
-<p align="left">
+
 My name is Grace! I am a Graphic Information Technology Major from ASU. My career goals are to work in animation and game design 
-</p>
 
 
-<p align="right">
-<img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" />
+
+<p float="left">
+    <img src="https://github.com/gtgraha1/gtgraha1/blob/main/profpic1opt.jpg" alt="profilepic" />
+    <img src="https://myreadme.vercel.app/api/embed/gtgraha1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtgraha1&theme=tokyonight" alt="mystreak"/> 
 </p>
 
 
